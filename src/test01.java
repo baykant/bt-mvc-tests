@@ -25,7 +25,7 @@
 /**
  *
  * @project bt-mvc-tests
- * @author Baykan Tokmakcioglu <baykant@ubs.com.tr>
+ * @author Baykan Tokmakcioglu <baykant at gmail.com>
  * @date 02.02.2017
  * @name test01
  */
