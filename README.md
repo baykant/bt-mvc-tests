@@ -1,2 +1,2 @@
 # bt-mvc-tests
-mvc test
+mvc test 01
